@@ -1,6 +1,6 @@
 Here's full available supported game list for the PS5 UI
 
-[ Find Lastest Release Here](https://github.com/ViceRar/WinDash-PS5-UI/releases/tag/Windows)
+[Latest Release Here](https://github.com/ViceRar/WinDash-PS5-UI/releases/tag/Windows)
 
 *Please note these are just PS5 themes for the UI, whether or not the game is available for PC is something you will have to look up.*
 
