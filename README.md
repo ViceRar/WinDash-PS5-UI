@@ -1,4 +1,4 @@
-Here's full available supported game list for the PS5 UI, Will be updated periodically.
+Here's full available supported game list for the PS5 UI, will be updated periodically.
 
 [Latest Release Here](https://github.com/ViceRar/WinDash-PS5-UI/releases/tag/Windows)
 
