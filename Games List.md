@@ -1,6 +1,6 @@
 Here's full available supported game list for the PS5 UI
 
-Please note these are just PS5 themes for the UI, whether or not the game is available for PC is something you will have to look up.
+*Please note these are just PS5 themes for the UI, whether or not the game is available for PC is something you will have to look up.*
 
 Assassin's Creed Valhalla
 
